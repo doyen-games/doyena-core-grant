@@ -183,7 +183,7 @@ This approach to smart contract development has enabled the computation, manipul
 
 Trait definitions _can_ be stored within your deployment of DoyenaCore, however, they can also be stored within the smart contracts that are utilizing the NFTs. 
 
-This allows the same NFT with the same Traits to have unique & rich functionality when used in different smart contracts, enabling something we call "Multi-Facted NFTs".
+This allows the same NFT with the same Traits to have unique & rich functionality when used in different smart contracts, enabling something we call "Multi-Faceted NFTs".
 
 This aspect of DoyenaCore is not necessary for all projects to utilize, however, resources & documentation will be provided for how to setup such an architecture alongside the (optional) 4th milestone.
 
