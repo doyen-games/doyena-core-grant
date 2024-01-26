@@ -252,13 +252,13 @@ The purpose of this grant is to secure funding for the continued development of 
 
 All releases will be fully open sourced under an MIT license.
 
-| Milestone | Duration (weeks) | Cost | Description |
+| Milestone | Duration (days) | Cost | Description |
 |----------|----------|----------|----------|
-| #1 | 8 | 50000 USD | Production ready release & documentation of DoyenaCore. |
-| #2 | 4 | 25000 USD | Peripheral tools for creating, generating & managing collection semantics, NFT Templates, NFT Drop Tables & Trait Drop Tables for API & frontend implementations. |
-| #3 | 4 | 25000 USD | Production ready release & documentation of DoyenaMarket to facilitate native trading & secondary marketplace support for DoyenaCore NFTs. |
+| #1 | 60 | 50000 USD | Production ready release & documentation of DoyenaCore. |
+| #2 | 30 | 25000 USD | Peripheral tools for creating, generating & managing collection semantics, NFT Templates, NFT Drop Tables & Trait Drop Tables for API & frontend implementations. |
+| #3 | 30 | 25000 USD | Production ready release & documentation of DoyenaMarket to facilitate native trading & secondary marketplace support for DoyenaCore NFTs. |
 | Optional | - | - | - |
-| #4 | 8 | 50000 USD | Utilizing DoyenaCore, create a free to play On-Chain RPG Game on the WAX blockchain from scratch, serving as an educational resource for C++, blockchain development & Web3 Game Design. |
+| #4 | 60 | 50000 USD | Utilizing DoyenaCore, create a free to play On-Chain RPG Game on the WAX blockchain from scratch, serving as an educational resource for C++, blockchain development & Web3 Game Design. |
 
 # Conclusion
 
